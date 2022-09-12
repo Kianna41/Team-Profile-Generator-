@@ -34,4 +34,5 @@ Team Intern
 1.Imported inquirer to prompt user response 2. Once user input is complete, fs is used to write the HTML file 3. Email and Github link is interactive by defaulting to email account and github.com, respectively 4. A roster of team members are generated once user input is complete.
 
 Link to deployed repo: https://github.com/Kianna41/Team-Profile-Generator-
+Link to deployed page: https://kianna41.github.io/Team-Profile-Generator-/
 
