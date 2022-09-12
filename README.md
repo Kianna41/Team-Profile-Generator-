@@ -6,23 +6,23 @@
 4. When the Github username is clicked, the profile opens in a new tab
 5. When prompted to enter the team members information is follows this path and an HTML is generated when you exit the application:
 
-# Team Manager
-Name
-Employee ID
-Email address
-Office Number
+Team Manager
+1. Name
+2. Employee ID
+3. Email address
+4. Office Number
 
-#Team Engineer
-Name
-Employee ID
-Email
-Github Username
+Team Engineer
+1. Name
+2. Employee ID
+3. Email
+4. Github Username
 
-#Team Intern
-Name
-Employee ID
-Email
-School
+Team Intern
+1. Name
+2. Employee ID
+3. Email
+4. School
 
 How This Was Accomplished
 1.Imported inquirer to prompt user response 
