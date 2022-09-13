@@ -31,8 +31,11 @@ How This Was Accomplished
 4. A roster of team members are generated once user input is complete.
 
 Link to deployed repo: https://github.com/Kianna41/Team-Profile-Generator- 
+
 Link to deployed page: https://kianna41.github.io/Team-Profile-Generator-/
+
 Link to walk-through video: https://youtu.be/TPXzIx4R78w
+
 # Mock-up: 
 
 <img width="1440" alt="Screen Shot 2022-09-12 at 9 08 43 PM" src="https://user-images.githubusercontent.com/107634328/189785455-3d7ff1fe-ef12-4c7d-a8d0-f5188df1e86a.png">
